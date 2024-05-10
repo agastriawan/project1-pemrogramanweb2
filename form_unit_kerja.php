@@ -66,7 +66,7 @@ require_once './layouts/sidebar.php';
       </div>
       <!-- /.card-body -->
       <div class="card-footer">
-        Footer
+        
       </div>
       <!-- /.card-footer-->
     </div>
